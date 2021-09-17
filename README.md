@@ -1,7 +1,3 @@
-<h1 align="center">
-  Hi! 👋  I'm Till
-</h1>
-
 - 🔭 Mostly working on causal inference and various computational social science bits and bobs 
 - 🌱 Currently learning more about C++ 
 - 💬 Exchange about R, GIS, NLP or whatever really 
