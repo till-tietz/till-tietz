@@ -1,12 +1,11 @@
-### Hi there 👋
-
-<!--
-**till-tietz/till-tietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi! 👋  I'm Till
+</h1>
 
 - 🔭 Mostly working on causal inference and various computational social science bits and bobs 
 - 🌱 Currently learning more about C++ 
 - 💬 Exchange about R, GIS, NLP or whatever really 
--->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
