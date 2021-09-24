@@ -28,4 +28,4 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till-tietz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till-tietz&show_icons=true&theme=tokyonight&layout=compact)
