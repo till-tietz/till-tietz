@@ -1,6 +1,6 @@
-- 🔭 Mostly working on causal inference and various computational social science bits and bobs 
-- 🌱 Currently learning more about C++ 
-- 💬 Exchange about R, GIS, NLP or whatever really 
+-  Mostly working on causal inference and various computational social science bits and bobs 
+-  Currently learning more about C++ 
+-  Exchange about R, GIS, NLP or whatever really 
 
 
 <h3 align="left">Languages and Tools:</h3>
