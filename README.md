@@ -1,6 +1,6 @@
 -  Mostly working on causal inference & machine learning as well as various other computational social science bits and bobs 
--  Currently learning more about C++ 
--  Exchange about R, GIS, NLP or whatever really 
+-  learning more about C++ 
+-  always keen to talk about R, GIS, NLP or whatever really 
 
 ### Currently working on:
 
