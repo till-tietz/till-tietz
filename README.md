@@ -2,6 +2,9 @@
 -  Currently learning more about C++ 
 -  Exchange about R, GIS, NLP or whatever really 
 
+### Currently working on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
