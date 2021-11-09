@@ -28,6 +28,10 @@
     <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png",
       alt="mc-stan" width="40" height="40" />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png",
+      alt="docker" width="40" height="40" />
+  </a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight)
