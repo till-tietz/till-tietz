@@ -30,7 +30,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png",
-      alt="docker" width="40" height="40" />
+      alt="docker" width="80" height="40" />
   </a>
 </p>
 
