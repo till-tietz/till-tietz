@@ -29,7 +29,7 @@
       alt="mc-stan" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png",
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png",
       alt="docker" width="40" height="40" />
   </a>
 </p>
