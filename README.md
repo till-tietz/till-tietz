@@ -13,7 +13,7 @@
       alt="rstats" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
     alt="c++" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
