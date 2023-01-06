@@ -1,5 +1,5 @@
 -  Mostly working on causal inference & machine learning as well as various other computational social science bits and bobs 
--  learning more about C++  
+-  doing more work in and learning more about C++ these days   
 
 ### Currently working on:
 
