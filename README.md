@@ -5,7 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/macartan/CausalQueries)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
 
