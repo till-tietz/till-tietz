@@ -3,11 +3,11 @@
 
 ### Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/macartan/CausalQueries)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/macartan/CausalQueries)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,5 +41,5 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till-tietz&show_icons=true&theme=tokyonight&hide=jupyter%20notebook&langs_count=5)
