@@ -42,4 +42,4 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=till-tietz&show_icons=true&theme=tokyonight&hide=jupyter%20notebook&langs_count=5)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=till-tietz&theme=tokyonight&hide=JupyterNotebook)
