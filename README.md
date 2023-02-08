@@ -10,6 +10,9 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
 
 <h3 align="left">Languages and Tools:</h3>
+
+![](https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white)
+
 <p align="left">
   <a href="https://r-project.org" target="_blank">
     <img src="https://www.r-project.org/logo/Rlogo.svg"
