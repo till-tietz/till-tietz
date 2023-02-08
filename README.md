@@ -3,9 +3,9 @@
 
 ### Currently working on:
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/macartan/CausalQueries)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/macartan/CausalQueries)
 
 <h3 align="left">Languages and Tools:</h3>
 
