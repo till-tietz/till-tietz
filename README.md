@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/-Git-FF1B2D?style=flat&logo=Git&logoColor=white) 
-![](https://img.shields.io/badge/Stan-F44D27?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Stan-F44D27?style=flat&logo=Stan&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
