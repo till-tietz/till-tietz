@@ -10,17 +10,17 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gerasy1987&repo=hiddenmeta&theme=tokyonight)](https://github.com/gerasy1987/hiddenmeta) 
 
 <h3 align="left">Languages and Tools:</h3>
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FF1B2D?style=flat&logo=Git&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![R](https://img.shields.io/badge/R-39477F?style=flat&logo=r&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+![](https://img.shields.io/badge/-Git-FF1B2D?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![](https://img.shields.io/badge/R-39477F?style=flat&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 
 
 <p align="left">
