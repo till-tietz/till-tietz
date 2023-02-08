@@ -11,7 +11,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-Git-FF1B2D?style=flat&logo=Git&logoColor=white) 
+![](https://img.shields.io/badge/Stan-F44D27?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/C++-2CA5E0?style=flat&logo=telegram&logoColor=white) 
+![](https://img.shields.io/badge/Python-0082C9?style=flat&logo=Nextcloud&logoColor=white) 
+![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
+
 
 <p align="left">
   <a href="https://r-project.org" target="_blank">
