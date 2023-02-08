@@ -24,36 +24,5 @@
 ![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 
 
-<p align="left">
-  <a href="https://r-project.org" target="_blank">
-    <img src="https://www.r-project.org/logo/Rlogo.svg"
-      alt="rstats" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-    alt="c++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://mc-stan.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png",
-      alt="mc-stan" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png",
-      alt="docker" width="40" height="40" />
-  </a>
-</p>
-
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=till-tietz&theme=tokyonight&hide=jupyter%20notebook)
