@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![](https://img.shields.io/badge/R-39477F?style=flat&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
