@@ -22,24 +22,11 @@
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 
-<div style="display: flex; flex-direction: column;">
-  <div style="display: flex;">
-    <div style="flex: 50%; margin-right: 10px;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats 1">
-    </div>
-    <div style="flex: 50%; margin-left: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=till-tietz&theme=tokyonight" alt="GitHub stats 2">
-    </div>
-  </div>
-  <div style="display: flex;">
-    <div style="flex: 50%; margin-right: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=till-tietz&theme=tokyonight" alt="Commits">
-    </div>
-    <div style="flex: 50%; margin-left: 10px;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=till-tietz&theme=tokyonight&hide=jupyter%20notebook" alt="Top Langs">
-    </div>
-  </div>
-</div>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=till-tietz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=till-tietz&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=till-tietz&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=till-tietz&theme=tokyonight&hide=jupyter%20notebook&layout=compact)
+
 
 
 
