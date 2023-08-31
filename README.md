@@ -1,4 +1,4 @@
--  Mostly working on bayesian methods for causal inference & ML
+-  Mostly working on Bayesian methods for causal inference & ML
 -  Trying to tackle problems related to selection bias and m-graph learning   
 -  doing more work in and learning more about C++ these days   
 
