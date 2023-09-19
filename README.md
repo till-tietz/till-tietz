@@ -1,11 +1,11 @@
-### Working on:
+### Work + Interests:
 
 -  Bayesian methods for causal inference & Machine Learning 
 -  Trying to tackle problems related to selection bias and m-graph learning
 -  Developing and maintining R-Packages 
 -  Doing more work in and learning more about C++ these days   
 
-### Current package development:
+### Current Package Development:
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/integrated-inferences/CausalQueries)
