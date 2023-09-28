@@ -1,6 +1,6 @@
 ### Work + Interests:
 
--  Bayesian methods for causal inference
+-  Bayesian methods for Causal Inference
 -  ML for Causal Inference from observational data without strong ignorability
 -  Trying to tackle problems related to selection bias and m-graph learning
 -  Developing and maintining R-Packages 
