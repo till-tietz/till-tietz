@@ -1,9 +1,10 @@
 ### Work + Interests:
 
--  Bayesian methods for causal inference & Machine Learning 
+-  Bayesian methods for causal inference & Machine Learning
+-  ML for Causal Inference from observational data without strong ignorability
 -  Trying to tackle problems related to selection bias and m-graph learning
 -  Developing and maintining R-Packages 
--  Doing more work in and learning more about C++ these days   
+-  Doing more work in C++ and Python these days   
 
 ### Current Package Development:
 
