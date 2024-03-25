@@ -1,7 +1,7 @@
 ### Work + Interests:
 
 -  Bayesian Causal Inference
--  Machine Learning methods for Causal Inference from observational data without strong ignorability
+-  Machine Learning methods for Causal Inference from observational data 
 -  Trying to tackle problems related to selection bias and m-graph learning
 -  Developing and maintining R-Packages 
 -  Doing more work in C++ and Python these days   
