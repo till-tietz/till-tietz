@@ -8,7 +8,6 @@
 
 ### Current Package Development:
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=till-tietz&repo=CQBigModel&theme=tokyonight)](https://github.com/till-tietz/CQBigModel)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=macartan&repo=CausalQueries&theme=tokyonight)](https://github.com/integrated-inferences/CausalQueries)
 
 <h3 align="left">Languages and Tools:</h3>
